@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sidebar</string>
+
+    <!--SettingsFragment-->
+    <string name="enable_sideline">Seitenleiste verwenden</string>
+    <string name="sidebar_label">Seitenleiste</string>
+    <string name="sidebar_summary">Schnellstart von Apps in einem schwebenden Fenster</string>
+    <string name="sidebar_app_setting_label">Angepinnte Anwendungen</string>
+</resources>
